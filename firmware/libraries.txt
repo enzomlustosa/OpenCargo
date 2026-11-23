@@ -1,0 +1,3 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+# Este projeto utiliza apenas bibliotecas nativas do core ESP32 (WiFi.h, WebServer.h, HTTPClient.h).

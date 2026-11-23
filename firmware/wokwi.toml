@@ -1,0 +1,10 @@
+[wokwi]
+version = 1
+firmware = "build/sketch.ino.bin"
+elf = "build/sketch.ino.elf"
+
+# Encaminhamento de porta HTTP (Wokwi para VS Code -> Navegador React)
+# Permite que o frontend React acesse http://localhost:8180/api/...
+[[net.forward]]
+from = "localhost:8180"
+to = "target:80"

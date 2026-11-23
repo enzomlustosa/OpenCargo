@@ -1,0 +1,23 @@
+# Dependências e builds do Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Variáveis de ambiente locais
+.env
+.env.local
+.env.*.local
+frontend/.env
+frontend/.env.local
+
+# Builds de firmware
+firmware/build/
+.pio/
+
+# Arquivos de sistema, backups locais e materiais privados
+Recursos/
+*.zip
+.DS_Store
+Thumbs.db
+*.log
