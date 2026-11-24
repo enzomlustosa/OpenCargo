@@ -1,6 +1,6 @@
 # Checklist de Requisitos do Professor — OpenCargo
 
-Este documento compara cada requisito obrigatório e entregável definidos pelo professor no **Projeto Integrador de IoT** com o que foi efetivamente implementado e comprovado no projeto **OpenCargo**.
+Este documento compara cada requisito obrigatório e entregável definidos pelo professor no [Projeto Integrador de IoT](https://github.com/WellingtonRoque/IoT/blob/main/Projeto/Projeto_Integrador_IoT.ipynb) com o que foi efetivamente implementado e comprovado no projeto **OpenCargo**.
 
 ---
 
